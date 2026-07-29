@@ -1,0 +1,35 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+*.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration sensibles
+.env
+*.key
+credentials.json
+
+# Bases de données locales (si vous créez du SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# VS Code / éditeurs
+.vscode/
+.idea/
